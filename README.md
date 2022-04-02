@@ -1,2 +1,3 @@
 # demu
-learning github
+## learning github
+first time trying github
